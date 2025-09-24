@@ -1,2 +1,3 @@
 # uber-projects
-Predictive Modelling of Ride Fares Using Regression Analysis. 
+Predictive Modelling of Ride Fares Using Regression Analysis 
+This project focuses on building a predictive model to estimate Uber ride fares based on historical trip data. By applying regression analysis techniques, we analyze key features such as pickup and drop-off locations, distance traveled, time of day, day of the week, weather conditions, and surge pricing patterns. The goal is to uncover patterns and relationships between these variables and fare amounts, enabling accurate fare prediction. This model can help customers plan trips more efficiently and support Uber in dynamic pricing optimization.
